@@ -1,4 +1,4 @@
-# classrecipe-template
+# Grapich-Design-School
 ## elementary,social,classroom
 This document is made by [gitfab](http://gitfab.org)
 ---
@@ -6,24 +6,20 @@ This document is made by [gitfab](http://gitfab.org)
 Elementary School (6-12)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://seriousimaging.net/wp-content/uploads/2013/10/Bay-Area-graphic-design-company.jpg)
 ---
-#Scale
-1 classroom (~30)
+#Class
+1 classroom (30 Students)
 
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
+students should be able to make his own graphic design.
 
 
 ---
 #Educational Effect
-* Search information and Remixing
-
-skill
-
 * Presentation Skill
-* deep Knowledge for own country
+* Depth knowledge of graphic design
 
 ---
 #Item/Material/System
